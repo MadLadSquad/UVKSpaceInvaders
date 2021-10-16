@@ -1,3 +1,23 @@
+autosetup.sh 
+autosetupci.sh 
+Engine/
+cmake-build-debug/
+.idea/
+cmake-build-release/
+.vs/
+.vs-code/
+Generated/
+Exported/
+build/
+Config/Settings
+CMakeLists.txt
+Content/Engine/brick.jpg
+*.spv
+Content/Res/
+UntitledVulkanGameEngine/
+docs/
+Content/entttest.uvklevel
+cmake-build-relwithdebinfo/ 
 # Prerequisites
 *.d
 
